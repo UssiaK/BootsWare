@@ -1,5 +1,5 @@
 
-    local signal = loadstring(game:HttpGet("https://raw.githubusercontent.com/Quenty/NevermoreEngine/version2/Modules/Shared/Events/Signal.lua"))()
+    local signal = loadstring(game:HttpGet("https://raw.githubusercontent.com/UssiaK/BootsWare/main/Signal.lua"))()
 
     local loading = Instance.new("ScreenGui"); do
     local Frame = Instance.new("Frame")
